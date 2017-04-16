@@ -1,5 +1,5 @@
 {
-    "name": "knox/pesapal",
+    "name": "munene02/pesapal",
     "description": "A laravel package that integrates into the pesapal api",
     "keywords": ["pesapal","laravel 5","MPESA","payments","VISA","Mastercard","Orange Money"],
     "homepage": "https://github.com/knox2/pesapal",
